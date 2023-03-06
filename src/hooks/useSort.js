@@ -25,7 +25,7 @@ const useSort = ({ defaultSort, items }) => {
       : sorted.reverse();
   };
 
-  const _setSortBy = (key) => () => {
+  const _setSortBy = (key) => {
     const [currentDirection, currentKey] = sortBy;
 
     if (key !== currentKey) {
