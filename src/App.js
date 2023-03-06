@@ -3,26 +3,25 @@ import Table from "./components/Table";
 import React from 'react';
 import Button from "./components/Button";
 import {fetchProducts} from "./request";
+import useSort from "./hooks/useSort";
 
 /**
  * 1. Delete isn't working.
- * 2. Weird sorting
- * 3. Undo feature requested.
+ * 2. Undo feature requested.
  */
 
-const DIRECTIONS = {
-  ASC: 'ASC',
-  DES: 'DES'
-}
-const NOT_ASSIGNED = 'Not assigned';
+export const NOT_ASSIGNED = 'Not assigned';
 const WIDTH = 'Width';
 const HEIGHT = 'Height';
 const DEPTH = 'Depth';
 const DELETE = 'Delete';
 
 function App() {
+  const [products, setProducts] = React.useState([]);
+  const { setSortBy, sortedItems } = useSort({ defaultSort: WIDTH.toLowerCase(), items: products });
+
   const removeProduct = (id) => () => {
-    setProducts(products.filter(({itemId}) => {
+    setProducts(sortedItems.filter(({itemId}) => {
       return id !== itemId;
     }));
   };
@@ -45,47 +44,15 @@ function App() {
     }
   });
 
-  const [products, setProducts] = React.useState([]);
   React.useEffect(() => {
     fetchProducts().then((res) => {
       setProducts(formatData(res));
     });
   }, [] /** THIS SHOULD BE REMOVED */ );
 
-  const labels = ['Item id', 'Range name', 'Product name', WIDTH, HEIGHT, DEPTH];
-  const [sortBy, setSortBy] = React.useState([DIRECTIONS.ASC, WIDTH.toLowerCase()]);
+  const labels = ['Item id', 'Range name', 'Product name', WIDTH, HEIGHT, DEPTH, ''];
 
-  const _setSortBy = (key) => () => {
-    const [currentDirection, currentKey] = sortBy;
-
-    if (key !== currentKey) {
-      setSortBy([DIRECTIONS.ASC, key]);
-      return setProducts(sort(DIRECTIONS.ASC, key));
-    }
-
-    const newDirection = currentDirection === DIRECTIONS.ASC
-      ? DIRECTIONS.DES
-      : DIRECTIONS.ASC;
-
-    setSortBy([newDirection, key]);
-    setProducts(sort(newDirection, key))
-  };
-
-  const sort = (currentDirection, key) => {
-    const neutralizeNotAssigned = (value) => value === NOT_ASSIGNED
-      ? 0
-      : value;
-
-    const sorted = products.sort((a, b) => {
-      return neutralizeNotAssigned(a[key]) - neutralizeNotAssigned(b[key]);
-    });
-
-    return currentDirection === DIRECTIONS.ASC
-      ? sorted
-      : sorted.reverse();
-  };
-
-  const generateRows = () => products.map((data, i) => {
+  const generateRows = () => sortedItems.map((data, i) => {
     return [
       ...Object.values(data),
       <Button onClick={removeProduct(data.itemId/** THIS SHOULD BE REMOVED */)} label={DELETE}/>
@@ -97,12 +64,12 @@ function App() {
       <h1>IKEA Catalog</h1>
 
       <div>
-        <h5 style={{ margin: "10px" }}>Sort by</h5>
+        <h5>Sort by</h5>
 
-        <div style={{ width: "200px", display: 'flex', justifyContent: 'space-between' }}>
-          <Button onClick={_setSortBy(WIDTH.toLowerCase())} label={WIDTH}/>
-          <Button onClick={_setSortBy(HEIGHT.toLowerCase())} label={HEIGHT}/>
-          <Button onClick={_setSortBy(DEPTH.toLowerCase())} label={DEPTH}/>
+        <div className="button-wrapper">
+          <Button onClick={setSortBy(WIDTH.toLowerCase())} label={WIDTH}/>
+          <Button onClick={setSortBy(HEIGHT.toLowerCase())} label={HEIGHT}/>
+          <Button onClick={setSortBy(DEPTH.toLowerCase())} label={DEPTH}/>
         </div>
       </div>
 
