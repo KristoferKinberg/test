@@ -5,6 +5,6 @@ export const fetchProducts = async () => {
     setTimeout(() => {
         resolve(data);
         reject({message: 'Error'});
-    }, 1000);
+    }, 750);
   });
 }
