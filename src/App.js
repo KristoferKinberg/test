@@ -15,16 +15,14 @@ const WIDTH = 'Width';
 const HEIGHT = 'Height';
 const DEPTH = 'Depth';
 const DELETE = 'Delete';
+const UNDO = 'Undo';
 
 function App() {
   const [products, setProducts] = React.useState([]);
   const { setSortBy, sortedItems } = useSort({ defaultSort: WIDTH.toLowerCase(), items: products });
 
-  const removeProduct = (id) => () => {
-    setProducts(sortedItems.filter(({itemId}) => {
-      return id !== itemId;
-    }));
-  };
+  const removeProduct = (id) => () => setProducts(sortedItems
+    .filter(({itemId}) => id !== itemId));
 
   const formatData = (data) => data.map((data) => {
     const { itemId, content: { name, typeName, measure }} = data;
@@ -57,7 +55,11 @@ function App() {
       ...Object.values(data),
       <Button onClick={removeProduct} label={DELETE}/>
     ]
-  })
+  });
+
+  const onSort = (key) => () => setSortBy(key);
+
+  const undo = () => console.log('shouldUndo');
 
   return (
     <div className="App">
@@ -67,13 +69,19 @@ function App() {
         <h5>Sort by</h5>
 
         <div className="button-wrapper">
-          <Button onClick={setSortBy(WIDTH.toLowerCase())} label={WIDTH}/>
-          <Button onClick={setSortBy(HEIGHT.toLowerCase())} label={HEIGHT}/>
-          <Button onClick={setSortBy(DEPTH.toLowerCase())} label={DEPTH}/>
+          <Button onClick={onSort(WIDTH.toLowerCase())} label={WIDTH}/>
+          <Button onClick={onSort(HEIGHT.toLowerCase())} label={HEIGHT}/>
+          <Button onClick={onSort(DEPTH.toLowerCase())} label={DEPTH}/>
         </div>
       </div>
 
       <Table labels={labels} rows={generateRows()} />
+
+      <div>
+        <div className="button-wrapper">
+          <Button onClick={undo} label={UNDO}/>
+        </div>
+      </div>
     </div>
   );
 }
