@@ -48,14 +48,14 @@ function App() {
     fetchProducts().then((res) => {
       setProducts(formatData(res));
     });
-  }, [] /** THIS SHOULD BE REMOVED */ );
+  });
 
   const labels = ['Item id', 'Range name', 'Product name', WIDTH, HEIGHT, DEPTH, ''];
 
   const generateRows = () => sortedItems.map((data, i) => {
     return [
       ...Object.values(data),
-      <Button onClick={removeProduct(data.itemId/** THIS SHOULD BE REMOVED */)} label={DELETE}/>
+      <Button onClick={removeProduct} label={DELETE}/>
     ]
   })
 
