@@ -1,0 +1,2276 @@
+[
+  {
+    "reason": [],
+    "valid": true,
+    "itemId": "ART-40033763",
+    "content": {
+      "itemType": "ART",
+      "itemNoGlobal": "40033763",
+      "itemNoLocal": null,
+      "ruItemType": "ART",
+      "ruItemNo": "40033763",
+      "breathTakingItem": false,
+      "name": "IVAR",
+      "mainTypeCode": "00058",
+      "mainTypeName": "base cabinets",
+      "typeCode": "10226",
+      "typeName": "cabinet",
+      "validDesignText": "pine",
+      "colourDotCode": "00049",
+      "colourDotUrl": "https://www.ikea.com/pimg/symbols/dots/00049.jpg",
+      "requiresAssembly": true,
+      "appConfig": null,
+      "measure": [
+        {
+          "typeCode": "00047",
+          "typeName": "Width",
+          "value": 800,
+          "unit": "mm",
+          "textMetric": "80 cm",
+          "textImperial": "31 1/2 \"",
+          "sortNo": 1
+        },
+        {
+          "typeCode": "00044",
+          "typeName": "Depth",
+          "value": 300,
+          "unit": "mm",
+          "textMetric": "30 cm",
+          "textImperial": "11 3/4 \"",
+          "sortNo": 2
+        },
+        {
+          "typeCode": "00041",
+          "typeName": "Height",
+          "value": 830,
+          "unit": "mm",
+          "textMetric": "83 cm",
+          "textImperial": "32 5/8 \"",
+          "sortNo": 3
+        },
+        {
+          "typeCode": "00011",
+          "typeName": "Max. load/shelf",
+          "value": 30000,
+          "unit": "g",
+          "textMetric": "30 kg",
+          "textImperial": "66 lb",
+          "sortNo": 4
+        }
+      ],
+      "packageMeasure": {
+        "numberOfPackages": 1,
+        "totalVolumeGross": 66.22,
+        "totalVolumeGrossMetric": "66.2 l",
+        "totalVolumeGrossImperial": "2.34 cu.ft",
+        "totalWeightGross": 21.471,
+        "totalWeightGrossMetric": "21.47 kg",
+        "totalWeightGrossImperial": "47 lb 5 oz",
+        "totalWeightNet": 20.577,
+        "totalWeightNetMetric": "20.58 kg",
+        "totalWeightNetImperial": "45 lb 6 oz",
+        "package": [
+          {
+            "no": 1,
+            "length": 875,
+            "lengthMetric": "88 cm",
+            "lengthImperial": "34 ½ \"",
+            "width": 430,
+            "widthMetric": "43 cm",
+            "widthImperial": "17 \"",
+            "height": 176,
+            "heightMetric": "18 cm",
+            "heightImperial": "7 \"",
+            "volumeGross": 66.22,
+            "volumeGrossMetric": "66.2 l",
+            "volumeGrossImperial": "2.34 cu.ft",
+            "weightGross": 21.471,
+            "weightGrossMetric": "21.47 kg",
+            "weightGrossImperial": "47 lb 5 oz",
+            "weightNet": 20.577,
+            "weightNetMetric": "20.58 kg",
+            "weightNetImperial": "45 lb 6 oz"
+          }
+        ]
+      },
+      "priceInformation": {
+        "salesPrice": [
+          {
+            "typeCode": "RegularSalesUnitPrice",
+            "currencyCode": "GBP",
+            "priceExclTax": 58.33,
+            "priceInclTax": 70,
+            "indicativeTotalTax": 11.67
+          }
+        ],
+        "currencyRank": [
+          "GBP"
+        ],
+        "onlineSaleable": true,
+        "homeDeliveryOnly": false,
+        "availableForCashCarry": true,
+        "availableForHomeDelivery": true,
+        "availableForClickCollect": true,
+        "homeDelivery": {
+          "inRange": true,
+          "messageType": "HIGH_IN_STOCK",
+          "colourDec": "10,138,0",
+          "colourHex": "#0A8A00",
+          "colourToken": "colour-positive"
+        },
+        "clickCollect": {
+          "inRange": true
+        }
+      },
+      "image": [
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/21439_pe106384_s1.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/1150661_ph186885_s1.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 2
+        },
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/0745894_ph158098_s1.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 3
+        },
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/0943892_ph168816_s1.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 4
+        },
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/1143170_ph172337_s1.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 5
+        },
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/0912140_pe618771_s1.jpg",
+          "typeName": "Quality Product Picture",
+          "sortNo": 6
+        },
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/1194550_ph169532_s1.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 7
+        },
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/0941238_pe795391_s1.jpg",
+          "typeName": "Measurement Illustration",
+          "sortNo": 8
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/21439_pe106384_s2.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/1150661_ph186885_s2.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 2
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/0745894_ph158098_s2.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 3
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/0943892_ph168816_s2.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 4
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/1143170_ph172337_s2.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 5
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/0912140_pe618771_s2.jpg",
+          "typeName": "Quality Product Picture",
+          "sortNo": 6
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/1194550_ph169532_s2.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 7
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/0941238_pe795391_s2.jpg",
+          "typeName": "Measurement Illustration",
+          "sortNo": 8
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/21439_pe106384_s3.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/1150661_ph186885_s3.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 2
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/0745894_ph158098_s3.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 3
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/0943892_ph168816_s3.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 4
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/1143170_ph172337_s3.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 5
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/0912140_pe618771_s3.jpg",
+          "typeName": "Quality Product Picture",
+          "sortNo": 6
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/1194550_ph169532_s3.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 7
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/0941238_pe795391_s3.jpg",
+          "typeName": "Measurement Illustration",
+          "sortNo": 8
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/21439_pe106384_s4.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/1150661_ph186885_s4.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 2
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/0745894_ph158098_s4.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 3
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/0943892_ph168816_s4.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 4
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/1143170_ph172337_s4.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 5
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/0912140_pe618771_s4.jpg",
+          "typeName": "Quality Product Picture",
+          "sortNo": 6
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/1194550_ph169532_s4.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 7
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/0941238_pe795391_s4.jpg",
+          "typeName": "Measurement Illustration",
+          "sortNo": 8
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/21439_pe106384_s5.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/1150661_ph186885_s5.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 2
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/0745894_ph158098_s5.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 3
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/0943892_ph168816_s5.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 4
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/1143170_ph172337_s5.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 5
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/0912140_pe618771_s5.jpg",
+          "typeName": "Quality Product Picture",
+          "sortNo": 6
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/1194550_ph169532_s5.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 7
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/0941238_pe795391_s5.jpg",
+          "typeName": "Measurement Illustration",
+          "sortNo": 8
+        }
+      ],
+      "video": null,
+      "goodToKnow": [
+        {
+          "typeName": "Included",
+          "text": "2 adjustable shelves included.",
+          "sortNo": 1
+        },
+        {
+          "typeName": "Purchase-/Other information",
+          "text": "Possible to separate for recycling or energy recovery if available in your community.",
+          "sortNo": 2
+        }
+      ],
+      "customerBenefit": [
+        {
+          "code": "0039272",
+          "text": "Untreated solid wood is a durable natural material which is even more hardwearing and easy to look after if you oil or wax the surface.",
+          "sortNo": 1
+        },
+        {
+          "code": "0036740",
+          "text": "You can move shelves and adapt spacing to suit your needs.",
+          "sortNo": 2
+        },
+        {
+          "code": "0048213",
+          "text": "Solid pine is a natural material which ages beautifully and gains its own unique character over time.",
+          "sortNo": 3
+        },
+        {
+          "code": "0050826",
+          "text": "The cabinet fits in IVAR storage system, but you can also use it freestanding. ",
+          "sortNo": 4
+        }
+      ],
+      "customerBenefitSummary": {
+        "code": "0049255",
+        "text": "Since IVAR storage system is so good at what it does, it has faithfully served customers’ needs across the home for over 50 years. Attics, living rooms, pantries and bedrooms – they all love IVAR. "
+      },
+      "complianceTechnical": null,
+      "complianceLabel": null,
+      "complianceInformation": null,
+      "technicalInformation": null,
+      "peopleAndPlanet": null,
+      "careInstruction": [
+        {
+          "typeCode": "00009",
+          "typeName": "Cleaning",
+          "code": "00053",
+          "text": "Wipe clean with a dry cloth.",
+          "sortNo": 1
+        }
+      ],
+      "customerMaterial": [
+        {
+          "textPart": "Basematerial/ Door panel:",
+          "text": "Solid pine",
+          "sortNo": 1
+        },
+        {
+          "textPart": "Back panel:",
+          "text": "Fibreboard",
+          "sortNo": 2
+        }
+      ],
+      "filterAttribute": null,
+      "validDesignPart": null,
+      "priceUnit": null,
+      "child": null,
+      "fullyLocalized": true,
+      "presentationGroupCode": null,
+      "assemblyTime": 40,
+      "genericProduct": null,
+      "measureReference": {
+        "textMetric": "80x30x83 cm",
+        "textImperial": "32x12x33 \""
+      },
+      "reason": null,
+      "document": null,
+      "complementaryItem": null,
+      "asset": null,
+      "saleEndDateTime": null,
+      "saleEndDateText": null
+    }
+  },
+  {
+    "reason": [],
+    "valid": true,
+    "itemId": "ART-57489509",
+    "content": {
+      "itemType": "ART",
+      "itemNoGlobal": "57489509",
+      "itemNoLocal": null,
+      "ruItemType": "ART",
+      "ruItemNo": "57489509",
+      "breathTakingItem": false,
+      "name": "IVAR",
+      "mainTypeCode": "00118",
+      "mainTypeName": "open storage solutions",
+      "typeCode": "10183",
+      "typeName": "side unit",
+      "validDesignText": null,
+      "colourDotCode": null,
+      "colourDotUrl": null,
+      "requiresAssembly": true,
+      "appConfig": null,
+      "measure": [
+        {
+          "typeCode": "00047",
+          "typeName": "Width",
+          "value": 300,
+          "unit": "mm",
+          "textMetric": "30 cm",
+          "textImperial": "11 3/4 \"",
+          "sortNo": 1
+        },
+        {
+          "typeCode": "00041",
+          "typeName": "Height",
+          "value": 2260,
+          "unit": "mm",
+          "textMetric": "226 cm",
+          "textImperial": "89 \"",
+          "sortNo": 2
+        }
+      ],
+      "packageMeasure": {
+        "numberOfPackages": 1,
+        "totalVolumeGross": 29.898,
+        "totalVolumeGrossMetric": "29.9 l",
+        "totalVolumeGrossImperial": "1.06 cu.ft",
+        "totalWeightGross": 3.3,
+        "totalWeightGrossMetric": "3.30 kg",
+        "totalWeightGrossImperial": "7 lb 4 oz",
+        "totalWeightNet": 3.2913,
+        "totalWeightNetMetric": "3.29 kg",
+        "totalWeightNetImperial": "7 lb 4 oz",
+        "package": [
+          {
+            "no": 1,
+            "length": 2265,
+            "lengthMetric": "227 cm",
+            "lengthImperial": "89 ¼ \"",
+            "width": 300,
+            "widthMetric": "30 cm",
+            "widthImperial": "11 ¾ \"",
+            "height": 44,
+            "heightMetric": "4 cm",
+            "heightImperial": "1 ¾ \"",
+            "volumeGross": 29.898,
+            "volumeGrossMetric": "29.9 l",
+            "volumeGrossImperial": "1.06 cu.ft",
+            "weightGross": 3.3,
+            "weightGrossMetric": "3.30 kg",
+            "weightGrossImperial": "7 lb 4 oz",
+            "weightNet": 3.2913,
+            "weightNetMetric": "3.29 kg",
+            "weightNetImperial": "7 lb 4 oz"
+          }
+        ]
+      },
+      "priceInformation": {
+        "salesPrice": [
+          {
+            "typeCode": "RegularSalesUnitPrice",
+            "currencyCode": "GBP",
+            "priceExclTax": 14.17,
+            "priceInclTax": 17,
+            "indicativeTotalTax": 2.83
+          }
+        ],
+        "currencyRank": [
+          "GBP"
+        ],
+        "onlineSaleable": true,
+        "homeDeliveryOnly": false,
+        "availableForCashCarry": true,
+        "availableForHomeDelivery": true,
+        "availableForClickCollect": true,
+        "homeDelivery": {
+          "inRange": true,
+          "messageType": "HIGH_IN_STOCK",
+          "colourDec": "10,138,0",
+          "colourHex": "#0A8A00",
+          "colourToken": "colour-positive"
+        },
+        "clickCollect": {
+          "inRange": true
+        }
+      },
+      "image": [
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/0623512_pe691195_s1.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/0946603_pe798164_s1.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 2
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/0623512_pe691195_s2.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/0946603_pe798164_s2.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 2
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/0623512_pe691195_s3.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/0946603_pe798164_s3.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 2
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/0623512_pe691195_s4.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/0946603_pe798164_s4.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 2
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/0623512_pe691195_s5.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/0946603_pe798164_s5.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 2
+        }
+      ],
+      "video": null,
+      "goodToKnow": [
+        {
+          "typeName": "Purchase-/Other information",
+          "text": "Possible to separate for recycling or energy recovery if available in your community.",
+          "sortNo": 1
+        }
+      ],
+      "customerBenefit": [
+        {
+          "code": "0039272",
+          "text": "Untreated solid wood is a durable natural material which is even more hardwearing and easy to look after if you oil or wax the surface.",
+          "sortNo": 1
+        },
+        {
+          "code": "0048213",
+          "text": "Solid pine is a natural material which ages beautifully and gains its own unique character over time.",
+          "sortNo": 2
+        }
+      ],
+      "customerBenefitSummary": {
+        "code": "0049255",
+        "text": "Since IVAR storage system is so good at what it does, it has faithfully served customers’ needs across the home for over 50 years. Attics, living rooms, pantries and bedrooms – they all love IVAR. "
+      },
+      "complianceTechnical": null,
+      "complianceLabel": null,
+      "complianceInformation": null,
+      "technicalInformation": null,
+      "peopleAndPlanet": null,
+      "careInstruction": [
+        {
+          "typeCode": "00009",
+          "typeName": "Cleaning",
+          "code": "00053",
+          "text": "Wipe clean with a dry cloth.",
+          "sortNo": 1
+        },
+        {
+          "typeCode": "00010",
+          "typeName": "Stains",
+          "code": "00463",
+          "text": "Stains can be removed by using an eraser or fine sandpaper.",
+          "sortNo": 2
+        }
+      ],
+      "customerMaterial": [
+        {
+          "text": "Solid pine",
+          "sortNo": 1
+        }
+      ],
+      "filterAttribute": null,
+      "validDesignPart": null,
+      "priceUnit": null,
+      "child": null,
+      "fullyLocalized": true,
+      "presentationGroupCode": null,
+      "assemblyTime": 15,
+      "genericProduct": null,
+      "measureReference": {
+        "textMetric": "30x226 cm",
+        "textImperial": "12x89 \""
+      },
+      "reason": null,
+      "document": null,
+      "complementaryItem": null,
+      "asset": null,
+      "saleEndDateTime": null,
+      "saleEndDateText": null
+    }
+  },
+  {
+    "reason": [],
+    "valid": true,
+    "itemId": "ART-30318163",
+    "content": {
+      "itemType": "ART",
+      "itemNoGlobal": "30318163",
+      "itemNoLocal": null,
+      "ruItemType": "ART",
+      "ruItemNo": "30318163",
+      "breathTakingItem": false,
+      "name": "IVAR",
+      "mainTypeCode": "00072",
+      "mainTypeName": "shelves",
+      "typeCode": "10191",
+      "typeName": "shelf",
+      "validDesignText": "pine",
+      "colourDotCode": "00049",
+      "colourDotUrl": "https://www.ikea.com/pimg/symbols/dots/00049.jpg",
+      "requiresAssembly": null,
+      "appConfig": null,
+      "measure": [
+        {
+          "typeCode": "00047",
+          "typeName": "Width",
+          "value": 830,
+          "unit": "mm",
+          "textMetric": "83 cm",
+          "textImperial": "32 5/8 \"",
+          "sortNo": 1
+        },
+        {
+          "typeCode": "00044",
+          "typeName": "Depth",
+          "value": 300,
+          "unit": "mm",
+          "textMetric": "30 cm",
+          "textImperial": "11 3/4 \"",
+          "sortNo": 2
+        },
+        {
+          "typeCode": "00035",
+          "typeName": "Thickness",
+          "value": 18,
+          "unit": "mm",
+          "textMetric": "1.8 cm",
+          "textImperial": "3/4 \"",
+          "sortNo": 3
+        },
+        {
+          "typeCode": "00012",
+          "typeName": "Max. load",
+          "value": 35000,
+          "unit": "g",
+          "textMetric": "35 kg",
+          "textImperial": "77 lb",
+          "sortNo": 4
+        }
+      ],
+      "packageMeasure": {
+        "numberOfPackages": 1,
+        "totalVolumeGross": 4.498,
+        "totalVolumeGrossMetric": "4.5 l",
+        "totalVolumeGrossImperial": "0.16 cu.ft",
+        "totalWeightGross": 2.448,
+        "totalWeightGrossMetric": "2.45 kg",
+        "totalWeightGrossImperial": "5 lb 6 oz",
+        "totalWeightNet": 2.4477,
+        "totalWeightNetMetric": "2.45 kg",
+        "totalWeightNetImperial": "5 lb 6 oz",
+        "package": [
+          {
+            "no": 1,
+            "length": 833,
+            "lengthMetric": "83 cm",
+            "lengthImperial": "32 ¾ \"",
+            "width": 300,
+            "widthMetric": "30 cm",
+            "widthImperial": "11 ¾ \"",
+            "height": 18,
+            "heightMetric": "2 cm",
+            "heightImperial": "¾ \"",
+            "volumeGross": 4.498,
+            "volumeGrossMetric": "4.5 l",
+            "volumeGrossImperial": "0.16 cu.ft",
+            "weightGross": 2.448,
+            "weightGrossMetric": "2.45 kg",
+            "weightGrossImperial": "5 lb 6 oz",
+            "weightNet": 2.4477,
+            "weightNetMetric": "2.45 kg",
+            "weightNetImperial": "5 lb 6 oz"
+          }
+        ]
+      },
+      "priceInformation": {
+        "salesPrice": [
+          {
+            "typeCode": "RegularSalesUnitPrice",
+            "currencyCode": "GBP",
+            "priceExclTax": 7.5,
+            "priceInclTax": 9,
+            "indicativeTotalTax": 1.5
+          }
+        ],
+        "currencyRank": [
+          "GBP"
+        ],
+        "onlineSaleable": true,
+        "homeDeliveryOnly": false,
+        "availableForCashCarry": true,
+        "availableForHomeDelivery": true,
+        "availableForClickCollect": true,
+        "homeDelivery": {
+          "inRange": true,
+          "messageType": "HIGH_IN_STOCK",
+          "colourDec": "10,138,0",
+          "colourHex": "#0A8A00",
+          "colourToken": "colour-positive"
+        },
+        "clickCollect": {
+          "inRange": true
+        }
+      },
+      "image": [
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/0559951_pe675918_s1.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/0559947_pe675916_s1.jpg",
+          "typeName": "Quality Product Picture",
+          "sortNo": 2
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/0559951_pe675918_s2.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/0559947_pe675916_s2.jpg",
+          "typeName": "Quality Product Picture",
+          "sortNo": 2
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/0559951_pe675918_s3.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/0559947_pe675916_s3.jpg",
+          "typeName": "Quality Product Picture",
+          "sortNo": 2
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/0559951_pe675918_s4.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/0559947_pe675916_s4.jpg",
+          "typeName": "Quality Product Picture",
+          "sortNo": 2
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/0559951_pe675918_s5.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/0559947_pe675916_s5.jpg",
+          "typeName": "Quality Product Picture",
+          "sortNo": 2
+        }
+      ],
+      "video": null,
+      "goodToKnow": [
+        {
+          "typeName": "Purchase-/Other information",
+          "text": "Possible to separate for recycling or energy recovery if available in your community.",
+          "sortNo": 1
+        },
+        {
+          "typeName": "Included",
+          "text": "Cylinder pins included.",
+          "sortNo": 2
+        }
+      ],
+      "customerBenefit": [
+        {
+          "code": "0039272",
+          "text": "Untreated solid wood is a durable natural material which is even more hardwearing and easy to look after if you oil or wax the surface.",
+          "sortNo": 1
+        },
+        {
+          "code": "0032429",
+          "text": "You can use the extra shelves to make room for more stuff when your storage needs change.",
+          "sortNo": 2
+        },
+        {
+          "code": "0048213",
+          "text": "Solid pine is a natural material which ages beautifully and gains its own unique character over time.",
+          "sortNo": 3
+        }
+      ],
+      "customerBenefitSummary": {
+        "code": "0049255",
+        "text": "Since IVAR storage system is so good at what it does, it has faithfully served customers’ needs across the home for over 50 years. Attics, living rooms, pantries and bedrooms – they all love IVAR. "
+      },
+      "complianceTechnical": null,
+      "complianceLabel": null,
+      "complianceInformation": null,
+      "technicalInformation": null,
+      "peopleAndPlanet": null,
+      "careInstruction": [
+        {
+          "typeCode": "00009",
+          "typeName": "Cleaning",
+          "code": "00053",
+          "text": "Wipe clean with a dry cloth.",
+          "sortNo": 1
+        },
+        {
+          "typeCode": "00010",
+          "typeName": "Stains",
+          "code": "00463",
+          "text": "Stains can be removed by using an eraser or fine sandpaper.",
+          "sortNo": 2
+        },
+        {
+          "typeCode": "00011",
+          "typeName": "Maintenance",
+          "code": "03301",
+          "text": "Can be treated with oil, wax, lacquer or glazing paint for higher resistance and easy care.",
+          "sortNo": 3
+        }
+      ],
+      "customerMaterial": [
+        {
+          "text": "Solid pine",
+          "sortNo": 1
+        }
+      ],
+      "filterAttribute": null,
+      "validDesignPart": null,
+      "priceUnit": null,
+      "child": null,
+      "fullyLocalized": true,
+      "presentationGroupCode": null,
+      "assemblyTime": null,
+      "genericProduct": null,
+      "measureReference": {
+        "textMetric": "83x30 cm",
+        "textImperial": "33x12 \""
+      },
+      "reason": null,
+      "document": null,
+      "complementaryItem": null,
+      "asset": null,
+      "saleEndDateTime": null,
+      "saleEndDateText": null
+    }
+  },
+  {
+    "reason": [],
+    "valid": true,
+    "itemId": "ART-50484509",
+    "content": {
+      "itemType": "ART",
+      "itemNoGlobal": "50484509",
+      "itemNoLocal": null,
+      "ruItemType": "ART",
+      "ruItemNo": "50484509",
+      "breathTakingItem": false,
+      "name": "IVAR",
+      "mainTypeCode": "00100",
+      "mainTypeName": "boxes/baskets",
+      "typeCode": "37198",
+      "typeName": "storage box on wheels",
+      "validDesignText": "pine",
+      "colourDotCode": "00049",
+      "colourDotUrl": "https://www.ikea.com/pimg/symbols/dots/00049.jpg",
+      "requiresAssembly": true,
+      "appConfig": null,
+      "measure": [
+        {
+          "typeCode": "00047",
+          "typeName": "Width",
+          "value": 780,
+          "unit": "mm",
+          "textMetric": "78 cm",
+          "textImperial": "30 3/4 \"",
+          "sortNo": 1
+        },
+        {
+          "typeCode": "00044",
+          "typeName": "Depth",
+          "value": 300,
+          "unit": "mm",
+          "textMetric": "30 cm",
+          "textImperial": "11 3/4 \"",
+          "sortNo": 2
+        },
+        {
+          "typeCode": "00041",
+          "typeName": "Height",
+          "value": 370,
+          "unit": "mm",
+          "textMetric": "37 cm",
+          "textImperial": "14 5/8 \"",
+          "sortNo": 3
+        }
+      ],
+      "packageMeasure": {
+        "numberOfPackages": 1,
+        "totalVolumeGross": 15.222,
+        "totalVolumeGrossMetric": "15.2 l",
+        "totalVolumeGrossImperial": "0.54 cu.ft",
+        "totalWeightGross": 5.95,
+        "totalWeightGrossMetric": "5.95 kg",
+        "totalWeightGrossImperial": "13 lb 2 oz",
+        "totalWeightNet": 5.5986,
+        "totalWeightNetMetric": "5.60 kg",
+        "totalWeightNetImperial": "12 lb 5 oz",
+        "package": [
+          {
+            "no": 1,
+            "length": 802,
+            "lengthMetric": "80 cm",
+            "lengthImperial": "31 ½ \"",
+            "width": 365,
+            "widthMetric": "37 cm",
+            "widthImperial": "14 ¼ \"",
+            "height": 52,
+            "heightMetric": "5 cm",
+            "heightImperial": "2 \"",
+            "volumeGross": 15.222,
+            "volumeGrossMetric": "15.2 l",
+            "volumeGrossImperial": "0.54 cu.ft",
+            "weightGross": 5.95,
+            "weightGrossMetric": "5.95 kg",
+            "weightGrossImperial": "13 lb 2 oz",
+            "weightNet": 5.5986,
+            "weightNetMetric": "5.60 kg",
+            "weightNetImperial": "12 lb 5 oz"
+          }
+        ]
+      },
+      "priceInformation": {
+        "salesPrice": [
+          {
+            "typeCode": "RegularSalesUnitPrice",
+            "currencyCode": "GBP",
+            "priceExclTax": 25,
+            "priceInclTax": 30,
+            "indicativeTotalTax": 5
+          }
+        ],
+        "currencyRank": [
+          "GBP"
+        ],
+        "onlineSaleable": true,
+        "homeDeliveryOnly": false,
+        "availableForCashCarry": true,
+        "availableForHomeDelivery": true,
+        "availableForClickCollect": true,
+        "homeDelivery": {
+          "inRange": true,
+          "messageType": "HIGH_IN_STOCK",
+          "colourDec": "10,138,0",
+          "colourHex": "#0A8A00",
+          "colourToken": "colour-positive"
+        },
+        "clickCollect": {
+          "inRange": true
+        }
+      },
+      "image": [
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/0945016_pe797533_s1.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/0961744_pe807750_s1.jpg",
+          "typeName": "Functional Product Picture",
+          "sortNo": 2
+        },
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/0961743_pe807749_s1.jpg",
+          "typeName": "Context Product Picture",
+          "sortNo": 3
+        },
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/1077006_ph182971_s1.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 4
+        },
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/1123376_pe874776_s1.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 5
+        },
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/1123399_pe874789_s1.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 6
+        },
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/1123400_pe874788_s1.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 7
+        },
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/0975641_pe812845_s1.jpg",
+          "typeName": "Measurement Illustration",
+          "sortNo": 8
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/0945016_pe797533_s2.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/0961744_pe807750_s2.jpg",
+          "typeName": "Functional Product Picture",
+          "sortNo": 2
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/0961743_pe807749_s2.jpg",
+          "typeName": "Context Product Picture",
+          "sortNo": 3
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/1077006_ph182971_s2.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 4
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/1123376_pe874776_s2.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 5
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/1123399_pe874789_s2.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 6
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/1123400_pe874788_s2.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 7
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/0975641_pe812845_s2.jpg",
+          "typeName": "Measurement Illustration",
+          "sortNo": 8
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/0945016_pe797533_s3.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/0961744_pe807750_s3.jpg",
+          "typeName": "Functional Product Picture",
+          "sortNo": 2
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/0961743_pe807749_s3.jpg",
+          "typeName": "Context Product Picture",
+          "sortNo": 3
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/1077006_ph182971_s3.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 4
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/1123376_pe874776_s3.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 5
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/1123399_pe874789_s3.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 6
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/1123400_pe874788_s3.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 7
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/0975641_pe812845_s3.jpg",
+          "typeName": "Measurement Illustration",
+          "sortNo": 8
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/0945016_pe797533_s4.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/0961744_pe807750_s4.jpg",
+          "typeName": "Functional Product Picture",
+          "sortNo": 2
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/0961743_pe807749_s4.jpg",
+          "typeName": "Context Product Picture",
+          "sortNo": 3
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/1077006_ph182971_s4.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 4
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/1123376_pe874776_s4.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 5
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/1123399_pe874789_s4.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 6
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/1123400_pe874788_s4.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 7
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/0975641_pe812845_s4.jpg",
+          "typeName": "Measurement Illustration",
+          "sortNo": 8
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/0945016_pe797533_s5.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/0961744_pe807750_s5.jpg",
+          "typeName": "Functional Product Picture",
+          "sortNo": 2
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/0961743_pe807749_s5.jpg",
+          "typeName": "Context Product Picture",
+          "sortNo": 3
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/1077006_ph182971_s5.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 4
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/1123376_pe874776_s5.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 5
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/1123399_pe874789_s5.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 6
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/1123400_pe874788_s5.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 7
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/0975641_pe812845_s5.jpg",
+          "typeName": "Measurement Illustration",
+          "sortNo": 8
+        }
+      ],
+      "video": null,
+      "goodToKnow": [
+        {
+          "typeName": "Purchase-/Other information",
+          "text": "Possible to separate for recycling or energy recovery if available in your community.",
+          "sortNo": 1
+        }
+      ],
+      "customerBenefit": [
+        {
+          "code": "0060799",
+          "text": "IVAR storage system is made of sustainably-sourced solid pine – a renewable natural material that only gets more beautiful over the years",
+          "sortNo": 1
+        },
+        {
+          "code": "0066125",
+          "text": "Easy to move where it is needed thanks to castors.",
+          "sortNo": 2
+        },
+        {
+          "code": "0060395",
+          "text": "Untreated solid wood is a durable natural material which is even more hard-wearing and easy to look after if you oil or wax the surface.",
+          "sortNo": 3
+        },
+        {
+          "code": "0060800",
+          "text": "The sturdy solid pine in IVAR storage system has natural variations in its grain, colour and surface structure – giving each piece a unique look.",
+          "sortNo": 4
+        }
+      ],
+      "customerBenefitSummary": {
+        "code": "0071416",
+        "text": "Since IVAR storage system is so good at what it does, it has faithfully served customers’ needs across the home for over 50 years. Attics, living rooms, pantries and bedrooms – they all love IVAR."
+      },
+      "complianceTechnical": null,
+      "complianceLabel": null,
+      "complianceInformation": null,
+      "technicalInformation": null,
+      "peopleAndPlanet": null,
+      "careInstruction": [
+        {
+          "typeCode": "00009",
+          "typeName": "Cleaning",
+          "code": "00053",
+          "text": "Wipe clean with a dry cloth.",
+          "sortNo": 1
+        },
+        {
+          "typeCode": "00010",
+          "typeName": "Stains",
+          "code": "00463",
+          "text": "Stains can be removed by using an eraser or fine sandpaper.",
+          "sortNo": 2
+        }
+      ],
+      "customerMaterial": [
+        {
+          "text": "Solid pine",
+          "sortNo": 1
+        }
+      ],
+      "filterAttribute": null,
+      "validDesignPart": null,
+      "priceUnit": null,
+      "child": null,
+      "fullyLocalized": true,
+      "presentationGroupCode": null,
+      "assemblyTime": 30,
+      "genericProduct": null,
+      "measureReference": {
+        "textMetric": "78x30 cm",
+        "textImperial": "30 3/4x11 3/4 \""
+      },
+      "reason": null,
+      "document": null,
+      "complementaryItem": null,
+      "asset": null,
+      "saleEndDateTime": null,
+      "saleEndDateText": null
+    }
+  },
+  {
+    "reason": [],
+    "valid": true,
+    "itemId": "ART-50482949",
+    "content": {
+      "itemType": "ART",
+      "itemNoGlobal": "50482949",
+      "itemNoLocal": null,
+      "ruItemType": "ART",
+      "ruItemNo": "50482949",
+      "breathTakingItem": false,
+      "name": "IVAR",
+      "mainTypeCode": "00058",
+      "mainTypeName": "base cabinets",
+      "typeCode": "23879",
+      "typeName": "cabinet with doors",
+      "validDesignText": "green mesh",
+      "colourDotCode": "00031",
+      "colourDotUrl": "https://www.ikea.com/pimg/symbols/dots/00031.jpg",
+      "requiresAssembly": true,
+      "appConfig": null,
+      "measure": [
+        {
+          "typeCode": "00047",
+          "typeName": "Width",
+          "value": 800,
+          "unit": "mm",
+          "textMetric": "80 cm",
+          "textImperial": "31 1/2 \"",
+          "sortNo": 1
+        },
+        {
+          "typeCode": "00044",
+          "typeName": "Depth",
+          "value": 300,
+          "unit": "mm",
+          "textMetric": "30 cm",
+          "textImperial": "11 3/4 \"",
+          "sortNo": 2
+        },
+        {
+          "typeCode": "00041",
+          "typeName": "Height",
+          "value": 830,
+          "unit": "mm",
+          "textMetric": "83 cm",
+          "textImperial": "32 5/8 \"",
+          "sortNo": 3
+        },
+        {
+          "typeCode": "00011",
+          "typeName": "Max. load/shelf",
+          "value": 25000,
+          "unit": "g",
+          "textMetric": "25 kg",
+          "textImperial": "55 lb",
+          "sortNo": 4
+        }
+      ],
+      "packageMeasure": {
+        "numberOfPackages": 1,
+        "totalVolumeGross": 60.605,
+        "totalVolumeGrossMetric": "60.6 l",
+        "totalVolumeGrossImperial": "2.14 cu.ft",
+        "totalWeightGross": 17.44,
+        "totalWeightGrossMetric": "17.44 kg",
+        "totalWeightGrossImperial": "38 lb 7 oz",
+        "totalWeightNet": 14.3915,
+        "totalWeightNetMetric": "14.39 kg",
+        "totalWeightNetImperial": "31 lb 12 oz",
+        "package": [
+          {
+            "no": 1,
+            "length": 850,
+            "lengthMetric": "85 cm",
+            "lengthImperial": "33 ½ \"",
+            "width": 460,
+            "widthMetric": "46 cm",
+            "widthImperial": "18 \"",
+            "height": 155,
+            "heightMetric": "16 cm",
+            "heightImperial": "6 \"",
+            "volumeGross": 60.605,
+            "volumeGrossMetric": "60.6 l",
+            "volumeGrossImperial": "2.14 cu.ft",
+            "weightGross": 17.44,
+            "weightGrossMetric": "17.44 kg",
+            "weightGrossImperial": "38 lb 7 oz",
+            "weightNet": 14.3915,
+            "weightNetMetric": "14.39 kg",
+            "weightNetImperial": "31 lb 12 oz"
+          }
+        ]
+      },
+      "priceInformation": {
+        "salesPrice": [
+          {
+            "typeCode": "RegularSalesUnitPrice",
+            "currencyCode": "GBP",
+            "priceExclTax": 75,
+            "priceInclTax": 90,
+            "indicativeTotalTax": 15
+          }
+        ],
+        "currencyRank": [
+          "GBP"
+        ],
+        "onlineSaleable": true,
+        "homeDeliveryOnly": false,
+        "availableForCashCarry": true,
+        "availableForHomeDelivery": true,
+        "availableForClickCollect": true,
+        "homeDelivery": {
+          "inRange": true,
+          "messageType": "HIGH_IN_STOCK",
+          "colourDec": "10,138,0",
+          "colourHex": "#0A8A00",
+          "colourToken": "colour-positive"
+        },
+        "clickCollect": {
+          "inRange": true
+        }
+      },
+      "image": [
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/0945011_pe797528_s1.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/0945012_pe797529_s1.jpg",
+          "typeName": "Context Product Picture",
+          "sortNo": 2
+        },
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/0945013_pe797530_s1.jpg",
+          "typeName": "Context Product Picture",
+          "sortNo": 3
+        },
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/0945014_pe797531_s1.jpg",
+          "typeName": "Functional Product Picture",
+          "sortNo": 4
+        },
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/1010923_ph175716_s1.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 5
+        },
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/0979038_ph175715_s1.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 6
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/0945011_pe797528_s2.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/0945012_pe797529_s2.jpg",
+          "typeName": "Context Product Picture",
+          "sortNo": 2
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/0945013_pe797530_s2.jpg",
+          "typeName": "Context Product Picture",
+          "sortNo": 3
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/0945014_pe797531_s2.jpg",
+          "typeName": "Functional Product Picture",
+          "sortNo": 4
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/1010923_ph175716_s2.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 5
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/0979038_ph175715_s2.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 6
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/0945011_pe797528_s3.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/0945012_pe797529_s3.jpg",
+          "typeName": "Context Product Picture",
+          "sortNo": 2
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/0945013_pe797530_s3.jpg",
+          "typeName": "Context Product Picture",
+          "sortNo": 3
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/0945014_pe797531_s3.jpg",
+          "typeName": "Functional Product Picture",
+          "sortNo": 4
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/1010923_ph175716_s3.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 5
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/0979038_ph175715_s3.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 6
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/0945011_pe797528_s4.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/0945012_pe797529_s4.jpg",
+          "typeName": "Context Product Picture",
+          "sortNo": 2
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/0945013_pe797530_s4.jpg",
+          "typeName": "Context Product Picture",
+          "sortNo": 3
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/0945014_pe797531_s4.jpg",
+          "typeName": "Functional Product Picture",
+          "sortNo": 4
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/1010923_ph175716_s4.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 5
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/0979038_ph175715_s4.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 6
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/0945011_pe797528_s5.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/0945012_pe797529_s5.jpg",
+          "typeName": "Context Product Picture",
+          "sortNo": 2
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/0945013_pe797530_s5.jpg",
+          "typeName": "Context Product Picture",
+          "sortNo": 3
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/0945014_pe797531_s5.jpg",
+          "typeName": "Functional Product Picture",
+          "sortNo": 4
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/1010923_ph175716_s5.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 5
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/0979038_ph175715_s5.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 6
+        }
+      ],
+      "video": null,
+      "goodToKnow": [
+        {
+          "typeName": "Included",
+          "text": "1 adjustable shelf included.",
+          "sortNo": 1
+        },
+        {
+          "typeName": "Purchase-/Other information",
+          "text": "Only for indoor use.",
+          "sortNo": 2
+        },
+        {
+          "typeName": "Complementary info measurements",
+          "text": "Dimensioned for IVAR shelf sections 89x30x124 cm, 89x30x179 cm, and 89x30x226 cm.",
+          "sortNo": 3
+        },
+        {
+          "typeName": "Purchase-/Other information",
+          "text": "Product is possible to recycle or use for energy recovery, if available in your community.",
+          "sortNo": 4
+        },
+        {
+          "typeName": "Warning",
+          "text": "We recommend you to fix the furniture to the wall with the enclosed safety fitting to prevent it from tipping over if a child climbs or hangs on it.",
+          "sortNo": 5
+        },
+        {
+          "typeName": "Compl. assembly information",
+          "text": "Different wall materials require different types of fixing devices. Use fixing devices suitable for the walls in your home, sold separately.",
+          "sortNo": 6
+        }
+      ],
+      "customerBenefit": [
+        {
+          "code": "0059514",
+          "text": "The cabinet fits IVAR storage system, but you can also have it freestanding.",
+          "sortNo": 1
+        },
+        {
+          "code": "0059517",
+          "text": "You can adapt the inside when needed by moving the shelf up or down.",
+          "sortNo": 2
+        }
+      ],
+      "customerBenefitSummary": {
+        "code": "0049255",
+        "text": "Since IVAR storage system is so good at what it does, it has faithfully served customers’ needs across the home for over 50 years. Attics, living rooms, pantries and bedrooms – they all love IVAR. "
+      },
+      "complianceTechnical": null,
+      "complianceLabel": null,
+      "complianceInformation": null,
+      "technicalInformation": null,
+      "peopleAndPlanet": null,
+      "careInstruction": [
+        {
+          "typeCode": "00009",
+          "typeName": "Cleaning",
+          "code": "00052",
+          "text": "Wipe clean with a cloth dampened in a mild cleaner.",
+          "sortNo": 1
+        },
+        {
+          "typeCode": "00009",
+          "typeName": "Cleaning",
+          "code": "00045",
+          "text": "Wipe dry with a clean cloth.",
+          "sortNo": 2
+        }
+      ],
+      "customerMaterial": [
+        {
+          "textPart": "Frame:",
+          "text": "Steel, Steel, Epoxy/polyester powder coating",
+          "sortNo": 1
+        },
+        {
+          "textPart": "Basematerial/ Door:",
+          "text": "Steel, Epoxy/polyester powder coating",
+          "sortNo": 2
+        }
+      ],
+      "filterAttribute": null,
+      "validDesignPart": null,
+      "priceUnit": null,
+      "child": null,
+      "fullyLocalized": true,
+      "presentationGroupCode": null,
+      "assemblyTime": 20,
+      "genericProduct": null,
+      "measureReference": {
+        "textMetric": "80x83 cm",
+        "textImperial": "31 1/2x32 5/8 \""
+      },
+      "reason": null,
+      "document": null,
+      "complementaryItem": null,
+      "asset": null,
+      "saleEndDateTime": null,
+      "saleEndDateText": null
+    }
+  },
+  {
+    "reason": [],
+    "valid": true,
+    "itemId": "ART-40512466",
+    "content": {
+      "itemType": "ART",
+      "itemNoGlobal": "40512466",
+      "itemNoLocal": null,
+      "ruItemType": "ART",
+      "ruItemNo": "40512466",
+      "breathTakingItem": false,
+      "name": "IVAR",
+      "mainTypeCode": "00153",
+      "mainTypeName": "tables",
+      "typeCode": "10518",
+      "typeName": "folding table",
+      "validDesignText": "pine",
+      "colourDotCode": "00049",
+      "colourDotUrl": "https://www.ikea.com/pimg/symbols/dots/00049.jpg",
+      "requiresAssembly": true,
+      "appConfig": null,
+      "measure": [
+        {
+          "typeCode": "00363",
+          "typeName": "Table top, length",
+          "value": 630,
+          "unit": "mm",
+          "textMetric": "63 cm",
+          "textImperial": "24 3/4 \"",
+          "sortNo": 1
+        },
+        {
+          "typeCode": "00362",
+          "typeName": "Table top, width",
+          "value": 800,
+          "unit": "mm",
+          "textMetric": "80 cm",
+          "textImperial": "31 1/2 \"",
+          "sortNo": 2
+        },
+        {
+          "typeCode": "00047",
+          "typeName": "Width",
+          "value": 800,
+          "unit": "mm",
+          "textMetric": "80 cm",
+          "textImperial": "31 1/2 \"",
+          "sortNo": 3
+        },
+        {
+          "typeCode": "00044",
+          "typeName": "Depth",
+          "value": 300,
+          "unit": "mm",
+          "textMetric": "30 cm",
+          "textImperial": "11 3/4 \"",
+          "sortNo": 4
+        },
+        {
+          "typeCode": "00043",
+          "typeName": "Min. depth",
+          "value": 300,
+          "unit": "mm",
+          "textMetric": "30 cm",
+          "textImperial": "11 3/4 \"",
+          "sortNo": 5
+        },
+        {
+          "typeCode": "00081",
+          "typeName": "Max. depth",
+          "value": 910,
+          "unit": "mm",
+          "textMetric": "91 cm",
+          "textImperial": "35 7/8 \"",
+          "sortNo": 6
+        },
+        {
+          "typeCode": "00127",
+          "typeName": "Table height",
+          "value": 750,
+          "unit": "mm",
+          "textMetric": "75 cm",
+          "textImperial": "29 1/2 \"",
+          "sortNo": 7
+        }
+      ],
+      "packageMeasure": {
+        "numberOfPackages": 1,
+        "totalVolumeGross": 38.522,
+        "totalVolumeGrossMetric": "38.5 l",
+        "totalVolumeGrossImperial": "1.36 cu.ft",
+        "totalWeightGross": 14.7,
+        "totalWeightGrossMetric": "14.70 kg",
+        "totalWeightGrossImperial": "32 lb 7 oz",
+        "totalWeightNet": 13.4377,
+        "totalWeightNetMetric": "13.44 kg",
+        "totalWeightNetImperial": "29 lb 10 oz",
+        "package": [
+          {
+            "no": 1,
+            "length": 878,
+            "lengthMetric": "88 cm",
+            "lengthImperial": "34 ½ \"",
+            "width": 675,
+            "widthMetric": "68 cm",
+            "widthImperial": "26 ½ \"",
+            "height": 65,
+            "heightMetric": "7 cm",
+            "heightImperial": "2 ½ \"",
+            "volumeGross": 38.522,
+            "volumeGrossMetric": "38.5 l",
+            "volumeGrossImperial": "1.36 cu.ft",
+            "weightGross": 14.7,
+            "weightGrossMetric": "14.70 kg",
+            "weightGrossImperial": "32 lb 7 oz",
+            "weightNet": 13.4377,
+            "weightNetMetric": "13.44 kg",
+            "weightNetImperial": "29 lb 10 oz"
+          }
+        ]
+      },
+      "priceInformation": {
+        "salesPrice": [
+          {
+            "typeCode": "RegularSalesUnitPrice",
+            "currencyCode": "GBP",
+            "priceExclTax": 66.67,
+            "priceInclTax": 80,
+            "indicativeTotalTax": 13.33
+          }
+        ],
+        "currencyRank": [
+          "GBP"
+        ],
+        "onlineSaleable": true,
+        "homeDeliveryOnly": false,
+        "availableForCashCarry": true,
+        "availableForHomeDelivery": true,
+        "availableForClickCollect": true,
+        "homeDelivery": {
+          "inRange": true,
+          "messageType": "HIGH_IN_STOCK",
+          "colourDec": "10,138,0",
+          "colourHex": "#0A8A00",
+          "colourToken": "colour-positive"
+        },
+        "clickCollect": {
+          "inRange": true
+        }
+      },
+      "image": [
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/1016729_pe830592_s1.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/1123388_pe874786_s1.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 3
+        },
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/1123385_pe874783_s1.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 4
+        },
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/1077005_ph180918_s1.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 5
+        },
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/1077004_ph180919_s1.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 6
+        },
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/1076992_ph183046_s1.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 7
+        },
+        {
+          "size": "S1",
+          "url": "https://www.ikea.com/pimg/1076993_ph183045_s1.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 8
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/1016729_pe830592_s2.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/1123388_pe874786_s2.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 3
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/1123385_pe874783_s2.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 4
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/1077005_ph180918_s2.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 5
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/1077004_ph180919_s2.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 6
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/1076992_ph183046_s2.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 7
+        },
+        {
+          "size": "S2",
+          "url": "https://www.ikea.com/pimg/1076993_ph183045_s2.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 8
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/1016729_pe830592_s3.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/1123388_pe874786_s3.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 3
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/1123385_pe874783_s3.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 4
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/1077005_ph180918_s3.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 5
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/1077004_ph180919_s3.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 6
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/1076992_ph183046_s3.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 7
+        },
+        {
+          "size": "S3",
+          "url": "https://www.ikea.com/pimg/1076993_ph183045_s3.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 8
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/1016729_pe830592_s4.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/1123388_pe874786_s4.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 3
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/1123385_pe874783_s4.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 4
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/1077005_ph180918_s4.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 5
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/1077004_ph180919_s4.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 6
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/1076992_ph183046_s4.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 7
+        },
+        {
+          "size": "S4",
+          "url": "https://www.ikea.com/pimg/1076993_ph183045_s4.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 8
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/1016729_pe830592_s5.jpg",
+          "typeName": "Main Product Picture",
+          "sortNo": 1
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/1123388_pe874786_s5.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 3
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/1123385_pe874783_s5.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 4
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/1077005_ph180918_s5.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 5
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/1077004_ph180919_s5.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 6
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/1076992_ph183046_s5.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 7
+        },
+        {
+          "size": "S5",
+          "url": "https://www.ikea.com/pimg/1076993_ph183045_s5.jpg",
+          "typeName": "Inspirational Product Picture",
+          "sortNo": 8
+        }
+      ],
+      "video": [
+        {
+          "url": "https://www.ikea.com/pvid/1123380_fe001960.mp4",
+          "posterUrl": "https://www.ikea.com/pvid/1123380_fe001960.jpg",
+          "typeName": "Product Feature Film",
+          "sortNo": 2
+        }
+      ],
+      "goodToKnow": [
+        {
+          "typeName": "May be completed",
+          "text": "May be completed with FIXA stick-on floor protectors; protect the underlying surface against wear.",
+          "sortNo": 1
+        },
+        {
+          "typeName": "May be completed",
+          "text": "To be completed with IVAR side unit, sold separately.",
+          "sortNo": 2
+        },
+        {
+          "typeName": "Purchase-/Other information",
+          "text": "Possible to separate for recycling or energy recovery if available in your community.",
+          "sortNo": 3
+        }
+      ],
+      "customerBenefit": [
+        {
+          "code": "0048603",
+          "text": "An easy solution if you don’t have a lot of space since the foldable table is perfect both as a desk and as a dining table for 2-3 people.",
+          "sortNo": 1
+        },
+        {
+          "code": "0048604",
+          "text": "On the shelves you have plenty of storage space, and if you want to hide your things just fold up the table.",
+          "sortNo": 2
+        },
+        {
+          "code": "0048213",
+          "text": "Solid pine is a natural material which ages beautifully and gains its own unique character over time.",
+          "sortNo": 3
+        },
+        {
+          "code": "0041672",
+          "text": "You can personalise the furniture even more by staining or painting it your favourite colour.",
+          "sortNo": 4
+        }
+      ],
+      "customerBenefitSummary": {
+        "code": "0049255",
+        "text": "Since IVAR storage system is so good at what it does, it has faithfully served customers’ needs across the home for over 50 years. Attics, living rooms, pantries and bedrooms – they all love IVAR. "
+      },
+      "complianceTechnical": null,
+      "complianceLabel": null,
+      "complianceInformation": null,
+      "technicalInformation": null,
+      "peopleAndPlanet": null,
+      "careInstruction": [
+        {
+          "typeCode": "00009",
+          "typeName": "Cleaning",
+          "code": "00053",
+          "text": "Wipe clean with a dry cloth.",
+          "sortNo": 1
+        }
+      ],
+      "customerMaterial": [
+        {
+          "textPart": "Table top/ Fixed shelf:",
+          "text": "Pine plywood",
+          "sortNo": 1
+        },
+        {
+          "textPart": "Leg:",
+          "text": "Solid pine, Solid pine",
+          "sortNo": 2
+        },
+        {
+          "textPart": "Shelf:",
+          "text": "Solid pine",
+          "sortNo": 3
+        },
+        {
+          "textPart": "Holder:",
+          "text": "Birch plywood",
+          "sortNo": 4
+        }
+      ],
+      "filterAttribute": null,
+      "validDesignPart": null,
+      "priceUnit": null,
+      "child": null,
+      "fullyLocalized": true,
+      "presentationGroupCode": null,
+      "assemblyTime": 43,
+      "genericProduct": null,
+      "measureReference": {
+        "textMetric": "80x30-91 cm",
+        "textImperial": "31 1/2x11 3/4-35 7/8 \""
+      },
+      "reason": null,
+      "document": null,
+      "complementaryItem": null,
+      "asset": null,
+      "saleEndDateTime": null,
+      "saleEndDateText": null
+    }
+  }
+]
